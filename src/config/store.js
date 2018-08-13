@@ -1,7 +1,8 @@
 import { createStore, combineReducers } from 'redux'
+import mazeReducer from '../reducers/maze'
 
 const rootReducer = combineReducers({
-
+  maze: mazeReducer,
 })
 
 const store = createStore(

@@ -1,0 +1,7 @@
+.tile {
+  display: inline-block;
+}
+
+.wall {
+  background-color: white;
+}
