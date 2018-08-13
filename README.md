@@ -13,5 +13,6 @@ In this episode we will build a maze component that we can later run a mouse thr
 
 #### Table of Contents (branches)
 
-1. [Start here - Basic create-react-app ready to go]()
-2. [Set up Redux]()
+1. [Start here - Basic create-react-app ready to go](https://github.com/react-u/24-mouse-maze-part-1-creating-the-maze/tree/01-start-here)
+2. [Set up Redux](https://github.com/react-u/24-mouse-maze-part-1-creating-the-maze/tree/02-wire-up-redux)
+3. [Build the maze](https://github.com/react-u/24-mouse-maze-part-1-creating-the-maze/tree/03-build-maze-control)
